@@ -1,0 +1,57 @@
+<?php get_header(); ?>
+
+<div class="corona-header" ><h1>Lighthouse Rentals is now closed for the holiday period. We are open from the 4th of January 2021 by appointment only and from the 7th of January 2020 for full trading. For assistance, please call Tom on 0433 517 490 from the 4th of January onwards.</h1>
+<h3>The team at Lighthouse Rentals would like to wish everyone a safe and relaxing break and we can't wait to see you all in 2021.</h3></div>
+
+<div class="home-grid-container">
+<div class="grid-list">	
+<a href="#" class="home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/hmi.jpg);">	
+<div class="home-item-name"><h3>Hire HMIs</h3></div>
+</a>
+<a href="#" class="home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/led.jpg);">	
+<div class="home-item-name"><h3>Hire LEDs</h3></div>
+</a>
+<a href="#" class="home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/grip.jpg);">	
+<div class="home-item-name"><h3>Hire Grip Equipment</h3></div>
+</a>
+ <a href="#" class="home-lighting-sale home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/video-lighting.png);">	
+ <div class="home-sale-tag lighting-sale-tag"><h3>Up to 46% off</h3></div>	
+<div class="home-lighting-sale-text"><h1>Lighting Sale</h1><h3>Sale on selected items</h3><h3 class="home-lighting-sale-button">View all sale items</h3></div>
+</a>
+<a href="#" class="home-value-package home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/packages-banner.jpg);">	
+<div class="home-sale-tag"><h3>Save up to 35%</h3></div>	
+<div class="home-item-name"><h3>Try out value packages</h3></div>
+</a>
+<a href="#" class="home-spotlight home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/inspiration_cover.jpg);">	
+<div>
+<div class="home-inspiration-text-container">
+<h1 class="home-inspiration-title">Don't know what lights you need?</h1>
+<h3 class="home-inspiration-subtext">Check out our inspirations gallery.</h3></div>
+<button class="home-inspiration-button">Get Inspired</button>
+</div>
+</a>
+<a href="#" class="home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/tungsten.jpg);">	
+<div class="home-item-name"><h3>Hire Tungsten</h3></div>
+</a>
+<a href="#" class="home-grid-item" style="background: url(https://lighthouserentals.com.au/assets/smoke-machine.jpg);">	
+<div class="home-item-name"><h3>Hire Smoke Machines</h3></div>
+</a>
+</div>
+</div>
+<div class="features">
+	<div class="feature">
+	<div class="feature-icon"><div class="icon-circle"><img alt="" src="https://lighthouserentals.com.au/assets/shopping-bag.svg"></div></div>
+	<div class="feature-text"><h2>2800+ Products</h2><p>Lighthouse Rentals has Melbourne’s Largest Selection of Lighting and Gripping Gear. Get all your Film Lighting and Grip Equipment from the one Location.</p></div></div>
+	<div class="feature">
+	<div class="feature-icon"><div class="icon-circle"><img alt="" src="https://lighthouserentals.com.au/assets/light-bulb.svg"></div></div>
+	<div class="feature-text"><h2>24/7 Pickup</h2><p>We know that filmmakers live busy lives and Lighthouse exists to support your shooting lifestyle. Collect and Return your gear at any time that works for you with our 24-hour Pick-up and Drop-Off facility.</p></div></div>
+	<div class="feature">
+	<div class="feature-icon"><div class="icon-circle"><img alt="" src="https://lighthouserentals.com.au/assets/shopping-bag.svg"></div></div>
+	<div class="feature-text"><h2>$55 Delivery</h2><p>Lighthouse Express can help you get your Film Lighting Equipment to your set with our express delivery service.</p></div></div>
+</div>
+
+
+
+<?php
+
+get_footer();

@@ -1,0 +1,16 @@
+#elite_order_fields .inside {
+    display: flex;margin-left: -10px;
+margin-right: -10px;margin-top: 0;
+flex-wrap: wrap;padding-top: 12px;
+}
+#elite_order_fields .inside > p {
+    max-width: 50%;
+    flex: 50% 0;
+    margin-top: 0;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+#elite_order_fields .inside > p > b {
+    display: inline-block;
+    min-width: 90px;
+}

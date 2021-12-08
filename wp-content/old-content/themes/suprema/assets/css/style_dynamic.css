@@ -1,0 +1,161 @@
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/assets/custom-styles/general-custom-styles.php suprema_qodef_design_styles function */
+.qodef-preload-background { background-image: url(https://lighthouserentals.mobilegiz.com/wp-content/themes/suprema/assets/img/preload_pattern.png) !important;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/assets/custom-styles/general-custom-styles.php suprema_qodef_design_styles function */
+.qodef-boxed .qodef-wrapper { background-attachment: fixed;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/assets/custom-styles/general-custom-styles.php suprema_qodef_link_styles function */
+a, p a { color: #6ab2f9;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/assets/custom-styles/general-custom-styles.php suprema_qodef_preloading_effect_styles function */
+.qodef-wipe-holder .qodef-wipe-1 { background-color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-webkit-input-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-moz-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-moz-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-ms-input-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #ffffff;background-color: rgba(255, 255, 255, 0.45);border-width: 0px;padding-top: 7px;padding-bottom: 7px;margin-top: 0px;margin-bottom: 15px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control:focus::-webkit-input-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control:focus::-webkit-input-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control:focus:-moz-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control:focus:-moz-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control:focus::-moz-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control:focus::-moz-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control:focus:-ms-input-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control:focus:-ms-input-placeholder { color: #ffffff;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control::-webkit-input-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control::-webkit-input-placeholder { color: #cccccc;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control:-moz-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control:-moz-placeholder { color: #cccccc;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control::-moz-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control::-moz-placeholder { color: #cccccc;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.wpcf7 .cf7_custom_style_1 input.wpcf7-form-control:-ms-input-placeholder, .wpcf7 .cf7_custom_style_1 textarea.wpcf7-form-control:-ms-input-placeholder { color: #cccccc;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { color: #ffffff;background-color: rgba(255, 255, 255, 0.45);border-width: 0;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;background-color: rgba(255, 255, 255, 0.01);border-color: rgba(255, 255, 255, 0.5);border-width: 2px;border-radius: 0px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/contactform7/custom-styles/contact-form.php suprema_qodef_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(12, 195, 206, 1);border-color: rgba(12, 195, 206, 1);}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/header/custom-styles/header.php suprema_qodef_header_standard_menu_area_styles function */
+.qodef-header-standard .qodef-page-header .qodef-logo-wrapper a { max-height: 76px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/header/custom-styles/header.php suprema_qodef_header_standard_menu_area_styles function */
+.qodef-header-standard .qodef-page-header .qodef-menu-area { height: 85px;}
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+                    .qodef-drop-down .second{
+            border-top: 0 !important;
+            }
+        
+                
+        
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+                    @media only screen and (max-width: 480px) {
+            /* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/header/custom-styles/mobile-header.php suprema_qodef_mobile_logo_styles function */
+.qodef-mobile-header .qodef-mobile-logo-wrapper a { height: 50px !important;}
+
+            }
+        /* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/header/custom-styles/mobile-header.php suprema_qodef_mobile_icon_styles function */
+.qodef-mobile-header .qodef-mobile-menu-opener a { font-size: 30px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/search/custom-styles/search.php suprema_qodef_search_opener_icon_size function */
+.qodef-search-opener { font-size: 18px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/search/custom-styles/search.php suprema_qodef_search_opener_icon_colors function */
+.qodef-search-opener { color: #101010;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/sidearea/custom-styles/sidearea.php suprema_qodef_side_area_icon_color_styles function */
+a.qodef-side-menu-button-opener { font-size: 30px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/sidearea/custom-styles/sidearea.php suprema_qodef_side_area_icon_color_styles function */
+a.qodef-side-menu-button-opener { color: 101010;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/sidearea/custom-styles/sidearea.php suprema_qodef_side_area_styles function */
+.qodef-side-menu a.qodef-close-side-menu { height: 30px;width: 30px;line-height: 30px;padding: 0;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/sidearea/custom-styles/sidearea.php suprema_qodef_side_area_styles function */
+.qodef-side-menu a.qodef-close-side-menu span, .qodef-side-menu a.qodef-close-side-menu i { font-size: 30px;height: 30px;width: 30px;line-height: 30px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/woocommerce/custom-styles/woocommerce.php suprema_qodef_standard_product_list_title_style function */
+.woocommerce .products.standard .product .qodef-product-list-product-title, .qodef-woocommerce-page .products.standard .product .qodef-product-list-product-title { color: #101010;font-size: 15px;text-transform: capitalize;font-family: Poppins, sans-serif;font-style: normal;font-weight: 500;letter-spacing: -0.5px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/woocommerce/custom-styles/woocommerce.php suprema_qodef_boxed_product_list_title_style function */
+.woocommerce .products.boxed .product .qodef-product-list-product-title, .qodef-woocommerce-page .products.boxed .product .qodef-product-list-product-title { color: #101010;font-size: 18px;text-transform: capitalize;font-family: Poppins, sans-serif;font-style: normal;font-weight: 600;letter-spacing: -0.5px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/woocommerce/custom-styles/woocommerce.php suprema_qodef_simple_product_list_title_style function */
+.woocommerce .products.simple .product .qodef-product-list-product-title, .qodef-woocommerce-page .products.simple .product .qodef-product-list-product-title { color: #ffffff;font-size: 22px;text-transform: capitalize;font-family: Poppins, sans-serif;font-style: normal;font-weight: 600;letter-spacing: -0.5px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/woocommerce/custom-styles/woocommerce.php suprema_qodef_masonry_product_list_title_style function */
+.qodef-shop-masonry .qodef-shop-product .qodef-masonry-product-overlay-outer .qodef-product-list-product-title { color: #ffffff;font-size: 23px;text-transform: capitalize;font-family: Poppins, sans-serif;font-style: normal;font-weight: 600;letter-spacing: -0.5px;}
+
+/* generated in /var/www/vhosts/mobilegiz.com/lighthouserentals.mobilegiz.com/wp-content/themes/suprema/framework/modules/search/custom-styles/search.php suprema_qodef_search_close_icon_styles function */
+.qodef-search-cover .qodef-search-close a, .qodef-search-fade .qodef-fullscreen-search-close { font-size: 30px;}
+
